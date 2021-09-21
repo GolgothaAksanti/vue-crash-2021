@@ -1,11 +1,16 @@
 # vue-crash-2021
 
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run the JSON-Server backend (localhost:5000)
+```
+npm run backend
+```
+### Compiles and hot-reloads for development (localhost:8081)
 ```
 npm run serve
 ```
@@ -14,6 +19,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
